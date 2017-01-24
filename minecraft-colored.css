@@ -1,0 +1,104 @@
+/*
+
+MIT License
+
+Copyright (c) 2017 FRNathan13
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+*/
+.mc.c1 {
+	color: #0000aa !important;
+}
+
+.mc.c2 {
+	color: #00aa00 !important;
+}
+
+.mc.c3 {
+	color: #00aaaa !important;
+}
+
+.mc.c4 {
+	color: #aa0000 !important;
+}
+
+.mc.c5 {
+	color: #aa00aa !important;
+}
+
+.mc.c6 {
+	color: #ffaa00 !important;
+}
+
+.mc.c7 {
+	color: #aaaaaa !important;
+}
+
+.mc.c8 { 
+	color: #555550 !important;
+}
+
+.mc.c9 {
+	color: #5555ff !important;
+}
+
+.mc.c0 {
+	color: #000000 !important;
+}
+
+.mc.ca {
+	color: #55ff55 !important;
+}
+
+.mc.cb {
+	color: #55ffff !important;
+}
+
+.mc.cc {
+	color: #ff5555 !important;
+}
+
+.mc.cd {
+	color: #ff55ff !important;
+}
+
+.mc.ce {
+	color: #ffff55 !important;
+}
+
+.mc.cf {
+	color: #ffffff !important;
+}
+
+.mc.bold {
+	font-weight: bold !important;
+}
+
+.mc.italic { 
+	font-style: italic !important;
+}
+
+.mc.underline {
+	text-decoration: underline !important;
+}
+
+.mc.overline {
+	text-decoration: line-through !important;
+}
